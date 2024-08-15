@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/jack-compiler/cmake-build-debug/CMakeFiles/jack_compiler.dir
+C:/Users/User/Desktop/jack-compiler/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/jack-compiler/cmake-build-debug/CMakeFiles/rebuild_cache.dir
